@@ -1,4 +1,4 @@
-module github.com/jackc/pgx/v4
+module github.com/pscott31/pgx/v4
 
 go 1.13
 
